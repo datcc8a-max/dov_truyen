@@ -1,0 +1,22 @@
+ỨNG DỤNG ĐỌC TRUYỆN ANDROID 1.0
+
+CÁCH TẠO FILE APK TRÊN WINDOWS 10
+1. Cài Android Studio từ trang chính thức developer.android.com/studio.
+2. Giải nén dự án này.
+3. Mở Android Studio > Open > chọn thư mục DocTruyenAndroid.
+4. Chờ Android Studio tải Android SDK và đồng bộ Gradle.
+5. Chọn Build > Build App Bundles or APKs > Build APKs.
+6. File cài đặt nằm trong app/build/outputs/apk/debug/app-debug.apk.
+7. Chép app-debug.apk sang điện thoại Xiaomi, cho phép cài ứng dụng không rõ nguồn rồi cài.
+
+CÁCH DÙNG
+- Nhập hoặc dán link chương truyện rồi bấm Mở.
+- Bấm Đọc để đọc từ đầu; chạm vào câu để đọc từ câu đó.
+- Chọn tốc độ 1x đến 7.5x.
+- Bật Tự sang chương để đọc liên tục.
+- Bấm Bám theo nếu trước đó đã cuộn trang bằng tay.
+- Cài giọng tiếng Việt trong Cài đặt > Cài đặt bổ sung > Ngôn ngữ và nhập liệu > Chuyển văn bản thành giọng nói.
+
+LƯU Ý
+- Đây là trình duyệt đọc truyện độc lập, không phải tiện ích cài vào Edge Android.
+- Một số trang dùng xác minh chống bot có thể yêu cầu đăng nhập hoặc xác minh trong ứng dụng.
